@@ -21,3 +21,7 @@ Notes: Change the background to all white--less distraction and keeps design con
 4.
 Notes: Changed the menu text to a lighter, slimmer font. 
 ![alttext](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.22%20AM.png)
+
+5.
+Notes: Change card side menu color and font. The side menu placement needs to be corrected. 
+![al text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%2010.46.01%20AM.png)
