@@ -15,9 +15,9 @@ Notes: Create card content structure. The cards will hold a visual element--phot
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-02%20at%209.05.19%20PM.png)
 
 3.
-Notes: Change the background to all white--less distraction and keeps design consistency. 
+Notes: Change the background to all white--less distraction and keeps design consistency. Adding a slim border radius creates separation and provides clean design elements to the card layout. 
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.14%20AM.png)
 
 4.
-Notes:
+Notes: Changed the menu text to a lighter, slimmer font. 
 ![alttext](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.22%20AM.png)
