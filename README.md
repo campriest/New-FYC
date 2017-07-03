@@ -13,4 +13,4 @@ UI Stages:
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.14%20AM.png)
 
 4.
-![alt text] (https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.22%20AM.png)
+![alttext](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.22%20AM.png)
