@@ -11,11 +11,13 @@ Notes: Create a three column structure to organize card content flow. Basic hamb
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-06-28%20at%208.49.36%20PM.png)
 
 2.
-Notes: 
+Notes: Create card content structure. The cards will hold a visual element--photo or picture. A side menu bar has been added for the chat feature.
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-02%20at%209.05.19%20PM.png)
 
 3.
+Notes:
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.14%20AM.png)
 
 4.
+Notes:
 ![alttext](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.22%20AM.png)
