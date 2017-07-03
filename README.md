@@ -15,7 +15,7 @@ Notes: Create card content structure. The cards will hold a visual element--phot
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-02%20at%209.05.19%20PM.png)
 
 3.
-Notes:
+Notes: Change the background to all white--less distraction and keeps design consistency. 
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%208.15.14%20AM.png)
 
 4.
