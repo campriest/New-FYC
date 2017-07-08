@@ -31,3 +31,7 @@ Notes: Change card side menu color and font. The side menu placement needs to be
 6.
 Notes:
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-08%20at%2011.42.41%20AM.png)
+
+7. 
+Notes:
+![alt text]()
