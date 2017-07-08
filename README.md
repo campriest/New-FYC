@@ -29,7 +29,7 @@ Notes: Change card side menu color and font. The side menu placement needs to be
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-03%20at%2010.46.01%20AM.png)
 
 6.
-Notes:
+Notes: The use of text is not engaging enough--does notify users that it is an actual button and opens to a chat UI.
 ![alt text](https://github.com/campriest/New-FYC/blob/master/Screen%20Shot%202017-07-08%20at%2011.42.41%20AM.png)
 
 7. 
